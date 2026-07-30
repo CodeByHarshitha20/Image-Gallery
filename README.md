@@ -1,13 +1,15 @@
 📸 Image Gallery
 A responsive and interactive Image Gallery built using HTML, CSS, and JavaScript. This project demonstrates responsive design, clean UI, and JavaScript-based interactivity.
-I posted my final project to here as well: 
+I posted my final project to here as well: https://codebyharshitha20.github.io/Image-Gallery/
 
 🚀 Technologies Used
+
 HTML5
 CSS3
 JavaScript
 
 ✨ Features
+
 Responsive gallery layout
 Interactive image viewing
 Smooth hover effects

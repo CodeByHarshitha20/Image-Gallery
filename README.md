@@ -6,6 +6,7 @@ I posted my final project to here as well:
 HTML5
 CSS3
 JavaScript
+
 ✨ Features
 Responsive gallery layout
 Interactive image viewing
